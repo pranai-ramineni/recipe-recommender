@@ -4,3 +4,5 @@ user_pp.ipynb and recipe_pp.ipynb files process the data of Raw interactions and
 Run user_pp.ipynb and recipe_pp.ipynb
 Run NCF_model.ipynb which will create a .h5 file, a trained model.
 Run streamlit.ipynb to create the final recommender system to recommend recipes to users, it also launches a dashboard where user can enter his ID and Ingredients and the recommendations will be based on his Ingredients
+
+![Food rec bg](https://github.com/pranai-ramineni/recipe-recommender/assets/149972358/d40c1cd5-36f9-4616-bc5d-10818d15acae)
